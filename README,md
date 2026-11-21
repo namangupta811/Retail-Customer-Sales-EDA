@@ -1,0 +1,39 @@
+
+# Retail Customer Sales – Exploratory Data Analysis
+
+## Project Overview
+This project focuses on analyzing retail customer sales data using Python. It explores sales performance, customer behavior, product categories, regional sales and profitability through data cleaning and visualization.
+
+## Objectives
+- Clean and preprocess the retail dataset.
+- Analyze sales and profit patterns.
+- Compare sales across different regions.
+- Study product category performance.
+- Create visualizations to understand business insights.
+
+## Tools and Technologies
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Jupyter Notebook
+
+## Project Structure
+- CODE/DATASET – Original and cleaned datasets
+- CODE/NOTEBOOK – Python analysis notebook
+- CODE/VISUALIZATION – Generated charts
+- SYNOPSIS – Project synopsis
+- A.V.S. – Project-related documentation
+
+## How to Run
+1. Clone or download this repository.
+2. Install the required Python libraries.
+3. Open the Jupyter Notebook inside CODE/NOTEBOOK.
+4. Run all cells to perform the analysis.
+
+## Author
+Naman Gupta
+
+MCA – ABES Engineering College
+Academic Session: 2026–2027
